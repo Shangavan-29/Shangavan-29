@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shangavan-29
+- 👋 Hi, I’m @Shangavan
 - 👀 I’m interested in ...UI/UX
 - 🌱 I’m currently learning ...AML
 - 💞️ I’m looking to collaborate on ...
